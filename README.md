@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/mr-dolesh/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/mr-dolesh/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/mr-dolesh/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mr-dolesh/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
