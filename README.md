@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mr-dolesh/Leetcode/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/mr-dolesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/mr-dolesh/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/mr-dolesh/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/mr-dolesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/mr-dolesh/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mr-dolesh/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/mr-dolesh/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/mr-dolesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
