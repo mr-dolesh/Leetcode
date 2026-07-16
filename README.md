@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/mr-dolesh/Leetcode/tree/master/0139-word-break) |
+| [0344-reverse-string](https://github.com/mr-dolesh/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/mr-dolesh/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/mr-dolesh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/mr-dolesh/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/mr-dolesh/Leetcode/tree/master/0344-reverse-string) |
 | [2396-strictly-palindromic-number](https://github.com/mr-dolesh/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
