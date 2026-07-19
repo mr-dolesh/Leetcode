@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mr-dolesh/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mr-dolesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/mr-dolesh/Leetcode/tree/master/0139-word-break) |
+| [0283-move-zeroes](https://github.com/mr-dolesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/mr-dolesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/mr-dolesh/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1331-rank-transform-of-an-array](https://github.com/mr-dolesh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/mr-dolesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mr-dolesh/Leetcode/tree/master/0344-reverse-string) |
 | [2396-strictly-palindromic-number](https://github.com/mr-dolesh/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
