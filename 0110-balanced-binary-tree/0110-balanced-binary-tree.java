@@ -1,6 +1,12 @@
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        return h(root) != -1;
+        int ans = h(root);
+
+        if (ans != -1) {
+            return true;
+        } else {
+            return false;
+        }
     }
 
     public int h(TreeNode root){
