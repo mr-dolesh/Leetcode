@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/mr-dolesh/Leetcode/tree/master/0139-word-break) |
 | [0283-move-zeroes](https://github.com/mr-dolesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/mr-dolesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0525-contiguous-array](https://github.com/mr-dolesh/Leetcode/tree/master/0525-contiguous-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/mr-dolesh/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1331-rank-transform-of-an-array](https://github.com/mr-dolesh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mr-dolesh/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mr-dolesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/mr-dolesh/Leetcode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/mr-dolesh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/mr-dolesh/Leetcode/tree/master/0525-contiguous-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mr-dolesh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mr-dolesh/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Trie
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mr-dolesh/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/mr-dolesh/Leetcode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
