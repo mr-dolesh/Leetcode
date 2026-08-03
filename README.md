@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/mr-dolesh/Leetcode/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/mr-dolesh/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/mr-dolesh/Leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/mr-dolesh/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/mr-dolesh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/mr-dolesh/Leetcode/tree/master/0481-magical-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mr-dolesh/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mr-dolesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/mr-dolesh/Leetcode/tree/master/0139-word-break) |
+| [0383-ransom-note](https://github.com/mr-dolesh/Leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/mr-dolesh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/mr-dolesh/Leetcode/tree/master/0525-contiguous-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mr-dolesh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/mr-dolesh/Leetcode/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mr-dolesh/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mr-dolesh/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
