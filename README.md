@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mr-dolesh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/mr-dolesh/Leetcode/tree/master/0481-magical-string) |
 | [1143-longest-common-subsequence](https://github.com/mr-dolesh/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mr-dolesh/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mr-dolesh/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mr-dolesh/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/mr-dolesh/Leetcode/tree/master/0525-contiguous-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mr-dolesh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mr-dolesh/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mr-dolesh/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3731-find-missing-elements](https://github.com/mr-dolesh/Leetcode/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/mr-dolesh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1652-defuse-the-bomb](https://github.com/mr-dolesh/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mr-dolesh/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/mr-dolesh/Leetcode/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mr-dolesh/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mr-dolesh/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mr-dolesh/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
 |  |
