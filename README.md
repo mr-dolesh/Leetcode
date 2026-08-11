@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/mr-dolesh/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mr-dolesh/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mr-dolesh/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mr-dolesh/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/mr-dolesh/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/mr-dolesh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mr-dolesh/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mr-dolesh/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mr-dolesh/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/mr-dolesh/Leetcode/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/mr-dolesh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mr-dolesh/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mr-dolesh/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mr-dolesh/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/mr-dolesh/Leetcode/tree/master/3731-find-missing-elements) |
 ## Game Theory
 |  |
