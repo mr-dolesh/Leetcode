@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mr-dolesh/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mr-dolesh/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mr-dolesh/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mr-dolesh/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mr-dolesh/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mr-dolesh/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mr-dolesh/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mr-dolesh/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/mr-dolesh/Leetcode/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mr-dolesh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1652-defuse-the-bomb](https://github.com/mr-dolesh/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mr-dolesh/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mr-dolesh/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mr-dolesh/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
