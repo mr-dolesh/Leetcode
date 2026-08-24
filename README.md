@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/mr-dolesh/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/mr-dolesh/Leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/mr-dolesh/Leetcode/tree/master/0486-predict-the-winner) |
+| [0593-valid-square](https://github.com/mr-dolesh/Leetcode/tree/master/0593-valid-square) |
 | [0877-stone-game](https://github.com/mr-dolesh/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/mr-dolesh/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/mr-dolesh/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mr-dolesh/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/mr-dolesh/Leetcode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
