@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mr-dolesh/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/mr-dolesh/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mr-dolesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/mr-dolesh/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mr-dolesh/Leetcode/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/mr-dolesh/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/mr-dolesh/Leetcode/tree/master/0198-house-robber) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mr-dolesh/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/mr-dolesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mr-dolesh/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mr-dolesh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mr-dolesh/Leetcode/tree/master/0075-sort-colors) |
 | [1331-rank-transform-of-an-array](https://github.com/mr-dolesh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mr-dolesh/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mr-dolesh/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -245,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/mr-dolesh/Leetcode/tree/master/0593-valid-square) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mr-dolesh/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mr-dolesh/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
