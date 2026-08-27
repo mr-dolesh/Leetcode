@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/mr-dolesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/mr-dolesh/Leetcode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/mr-dolesh/Leetcode/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/mr-dolesh/Leetcode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/mr-dolesh/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/mr-dolesh/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/mr-dolesh/Leetcode/tree/master/0877-stone-game) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/mr-dolesh/Leetcode/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/mr-dolesh/Leetcode/tree/master/0724-find-pivot-index) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mr-dolesh/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Recursion
 |  |
