@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mr-dolesh/Leetcode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/mr-dolesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/mr-dolesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/mr-dolesh/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/mr-dolesh/Leetcode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/mr-dolesh/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/mr-dolesh/Leetcode/tree/master/0724-find-pivot-index) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/mr-dolesh/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/mr-dolesh/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/mr-dolesh/Leetcode/tree/master/0724-find-pivot-index) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mr-dolesh/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mr-dolesh/Leetcode/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/mr-dolesh/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
