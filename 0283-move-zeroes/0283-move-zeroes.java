@@ -8,7 +8,7 @@ class Solution {
                 nums[idx] = temp;
                 idx++;
             }
-        } System.out.println(nums);
+        } 
 
     }
 }
