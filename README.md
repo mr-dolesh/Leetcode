@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mr-dolesh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/mr-dolesh/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/mr-dolesh/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/mr-dolesh/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/mr-dolesh/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/mr-dolesh/Leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/mr-dolesh/Leetcode/tree/master/0486-predict-the-winner) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/mr-dolesh/Leetcode/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/mr-dolesh/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mr-dolesh/Leetcode/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/mr-dolesh/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mr-dolesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/mr-dolesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/mr-dolesh/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mr-dolesh/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/mr-dolesh/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/mr-dolesh/Leetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/mr-dolesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mr-dolesh/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mr-dolesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/mr-dolesh/Leetcode/tree/master/0139-word-break) |
+| [0268-missing-number](https://github.com/mr-dolesh/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/mr-dolesh/Leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/mr-dolesh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/mr-dolesh/Leetcode/tree/master/0525-contiguous-array) |
@@ -161,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/mr-dolesh/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/mr-dolesh/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mr-dolesh/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/mr-dolesh/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/mr-dolesh/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/mr-dolesh/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mr-dolesh/Leetcode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/mr-dolesh/Leetcode/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/mr-dolesh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mr-dolesh/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mr-dolesh/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
