@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/mr-dolesh/Leetcode/tree/master/0481-magical-string) |
 | [1143-longest-common-subsequence](https://github.com/mr-dolesh/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/mr-dolesh/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1768-merge-strings-alternately](https://github.com/mr-dolesh/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mr-dolesh/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mr-dolesh/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mr-dolesh/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mr-dolesh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/mr-dolesh/Leetcode/tree/master/0481-magical-string) |
 | [0658-find-k-closest-elements](https://github.com/mr-dolesh/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1768-merge-strings-alternately](https://github.com/mr-dolesh/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/mr-dolesh/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
