@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/mr-dolesh/Leetcode/tree/master/0593-valid-square) |
 | [0877-stone-game](https://github.com/mr-dolesh/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/mr-dolesh/Leetcode/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mr-dolesh/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/mr-dolesh/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2396-strictly-palindromic-number](https://github.com/mr-dolesh/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mr-dolesh/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/mr-dolesh/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/mr-dolesh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/mr-dolesh/Leetcode/tree/master/0481-magical-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mr-dolesh/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/mr-dolesh/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/mr-dolesh/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/mr-dolesh/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -300,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/mr-dolesh/Leetcode/tree/master/0658-find-k-closest-elements) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mr-dolesh/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mr-dolesh/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
