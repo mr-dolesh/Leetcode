@@ -4,7 +4,9 @@ class Solution(object):
         result = []
 
         for i in range(len(candies)):
-            result.append(candies[i] + extraCandies >= largestCandie)
-                
+            if(candies[i] + extraCandies >= largestCandie):
+                result.append(True)
+            else:
+                result.append(False)
 
         return result
