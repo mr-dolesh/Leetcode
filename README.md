@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/mr-dolesh/Leetcode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/mr-dolesh/Leetcode/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/mr-dolesh/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/mr-dolesh/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/mr-dolesh/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mr-dolesh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mr-dolesh/Leetcode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/mr-dolesh/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/mr-dolesh/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mr-dolesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mr-dolesh/Leetcode/tree/master/0344-reverse-string) |
