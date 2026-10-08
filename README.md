@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/mr-dolesh/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mr-dolesh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/mr-dolesh/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/mr-dolesh/Leetcode/tree/master/0189-rotate-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/mr-dolesh/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mr-dolesh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/mr-dolesh/Leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mr-dolesh/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mr-dolesh/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mr-dolesh/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
