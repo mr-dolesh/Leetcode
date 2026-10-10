@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mr-dolesh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/mr-dolesh/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mr-dolesh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/mr-dolesh/Leetcode/tree/master/0072-edit-distance) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mr-dolesh/Leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mr-dolesh/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/mr-dolesh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mr-dolesh/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mr-dolesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mr-dolesh/Leetcode/tree/master/0075-sort-colors) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mr-dolesh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/mr-dolesh/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mr-dolesh/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
